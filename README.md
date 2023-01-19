@@ -19,7 +19,8 @@
 </a>  
 </div>  
 <br/>  
-## My Skill Set  
+
+### Mis Competencias
 <table><tr><td valign="top" width="33%">
 
 
