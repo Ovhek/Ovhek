@@ -50,7 +50,7 @@
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
             <a href="https://spring.io/" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    src="https://www.armadilloamarillo.com/wp-content/uploads/spring-boot-ok.png" 
                     align="center"
                 />
             </a>
