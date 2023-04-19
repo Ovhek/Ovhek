@@ -72,8 +72,8 @@
 
 <br/>  
   
-<h1 align="center">Proyecto Actualu</h1>
-# CopernicJobs
+<h1 align="center">Proyecto Actual</h1>
+<h1 align="center">CopernicJobs</h1>
 
 ERP encargado de la bolsa de trabajo del instituto Utilizando Spring Boot Web, Thymeleaf, Lombok y Java, así como la implementación de Spring Boot Validations, Spring Boot Security y Spring Data JPA
 
