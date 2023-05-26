@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, mi nombre es Alexandru</h1>
 <h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma</h3>
 
-- 🔭 Actualmente estoy desarollando [CopernicjJobs](https://github.com/Ovhek/CopernicJobs)
+- 🔭 Actualmente estoy desarollando [Dead Zone](https://github.com/Ovhek/Dead-Zone)
 
 - 🌱 Actualmente estoy estudiando **Desarrollo de Aplicaciones Multiplataforma**
 
