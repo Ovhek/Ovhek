@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Alexandru</h1>
-<h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma</h3>
-
-- 🌱 **Desarrollador de Aplicaciones Multiplataforma**
+<h3 align="center">Desarollador de Aplicaciones Multiplataforma</h3>
 
 - 👨‍💻 Todos mis proyectos se encuentran disponibles en [https://github.com/Ovhek?tab=repositories](https://github.com/Ovhek?tab=repositories)
 
