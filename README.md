@@ -1,9 +1,7 @@
 <h1 align="center">Hola 👋, mi nombre es Alexandru</h1>
 <h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma</h3>
 
-- 🔭 Actualmente estoy desarollando [Dead Zone](https://github.com/Ovhek/Dead-Zone)
-
-- 🌱 Actualmente estoy estudiando **Desarrollo de Aplicaciones Multiplataforma**
+- 🌱 **Desarrollador de Aplicaciones Multiplataforma**
 
 - 👨‍💻 Todos mis proyectos se encuentran disponibles en [https://github.com/Ovhek?tab=repositories](https://github.com/Ovhek?tab=repositories)
 
