@@ -1,69 +1,55 @@
-<h1 align="center">Hola 👋, mi nombre es Alexandru</h1>
-<h3 align="center">Desarollador de Aplicaciones Multiplataforma</h3>
+<h2 align="left">Hola 👋, Soy Alex</h2>
 
-- 👨‍💻 Todos mis proyectos se encuentran disponibles en [https://github.com/Ovhek?tab=repositories](https://github.com/Ovhek?tab=repositories)
+###
 
-- 📫 Contáctame en **alexandrucruceat@gmail.com**
+<p align="left">Soy un apasionado desarrollador de software comprometido con la creación de soluciones tecnológicas innovadoras. Mi enfoque va más allá del código: creo en la importancia de construir experiencias significativas y eficientes para los usuarios.</p>
 
-## Conecta conmigo
-<div>
-<a href="https://github.com/Ovhek" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+###
+
+<h3 align="left">Lenguajes</h3>
+
+###
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=c%23&logoColor=purple)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
+
+<h3 align="left">Tecnologías</h3>
+
+###
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-000?&logo=Bootstrap)
+![Jquery](https://img.shields.io/badge/-Jquery-000?&logo=Jquery)
+
+<h3 align="left">Bases de Datos</h3>
+
+###
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+
+<h3 align="left">Contáctame En:</h3>
+<a href="mailto:alexandrucruceat@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  />
 </a>
-<a href="https://linkedin.com/in/alex-cruceat-a24140240" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-<br/>  
+<a href="https://www.linkedin.com/in/alexcruceat" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
+</a>
 
-### Mis Competencias
-<table><tr><td valign="top" width="33%">
-
-
-
-### Lenguajes  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+###
+<br>
+<br>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ovhek&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ovhek&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Tecnologías  
-<div align="center">  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="Android Studio" height="50" />
-  <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://www.armadilloamarillo.com/wp-content/uploads/spring-boot-ok.png" alt="Spring boot" height="50" />
-</div>
-
-</td></tr></table>  
-
-<br/>  
+###
