@@ -34,6 +34,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+
 
 <h3 align="left">Contáctame En:</h3>
 <a href="mailto:alexandrucruceat@gmail.com" target="_blank">
